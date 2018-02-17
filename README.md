@@ -17,9 +17,19 @@ The site is built with Shiny, a web app language based on R developed by  RStudi
 * Census data: https://datapacks.censusdata.abs.gov.au/datapacks/
 
 
-## Workflow
+## Pre-processing Workflow
 
+### Map
 
+1. Load and clean vote data
+2. Scrape parliment members data and merge with vote data
+3. Join vote data with electorate spatial data
+4. Simplify geometory
+5. Save for use on map
+
+### Graph data
+
+1. Reformat vote participation file and census data pack for plots
 
 
 ## Disclaimer
