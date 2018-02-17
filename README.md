@@ -11,10 +11,10 @@ The site is built with Shiny, a web app language based on R developed by  RStudi
 
 ## Data Sources
 
-Vote data: https://marriagesurvey.abs.gov.au/results/downloads.html
-Region boundries and names: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202017
-Parliment members: https://en.wikipedia.org/wiki/Members_of_the_Australian_House_of_Representatives,_2016%E2%80%932019
-Census data: https://datapacks.censusdata.abs.gov.au/datapacks/
+* Vote data: https://marriagesurvey.abs.gov.au/results/downloads.html
+* Region boundries and names: http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202017
+* Parliment members: https://en.wikipedia.org/wiki/Members_of_the_Australian_House_of_Representatives,_2016%E2%80%932019
+* Census data: https://datapacks.censusdata.abs.gov.au/datapacks/
 
 
 ## Workflow
